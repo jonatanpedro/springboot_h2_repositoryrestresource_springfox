@@ -1,0 +1,1 @@
+insert into aluno (dt_nascimento, email, nome, matricula) values(sysdate, 'jonatanpedro@gmail.com', 'Jonatan Pedro', 1);
